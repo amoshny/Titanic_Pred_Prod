@@ -1,0 +1,6 @@
+*.ipynb
+*.csv
+*.md
+__pycache__/
+.env
+venv/
